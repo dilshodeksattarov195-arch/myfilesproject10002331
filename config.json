@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentrender",
+        "uuid": 4482513,
+        "checksum": "n9gsap"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
